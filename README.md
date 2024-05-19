@@ -2,6 +2,7 @@
 
 ## Overview
 This is a simple React project with TS, made for B2BIT internship selection process.
+You can acess the deploy here: http://localhost:5173/projeto-b2bit/#/
 
 ## Installation
 You will have 2 options:

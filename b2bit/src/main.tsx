@@ -3,10 +3,10 @@ import ReactDOM from 'react-dom/client'
 import './styles.css'
 import LoginPage from './pages/LoginPage'
 import Account from './pages/Account'
-import {createBrowserRouter, RouterProvider} from 'react-router-dom'
+import {createHashRouter, RouterProvider} from 'react-router-dom'
 
 
-const router = createBrowserRouter([
+const router = createHashRouter([
   {
     path: '/',
     element: <LoginPage/>,
